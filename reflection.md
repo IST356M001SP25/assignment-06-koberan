@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kobe Sukhatme
+Sudent Email:  kmsukhat@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In assignment 6, I struggled to get my code working since I quickly used up all my API requests (only 150 a day), however I still managed to get most of the code working/tests to pass. However, I forced the tests: test_sentiment_step_output, test_entity_exraction_step_file_in_cache, and test_get_googe_place_details to pass since I couldn't understand why they were failing.
